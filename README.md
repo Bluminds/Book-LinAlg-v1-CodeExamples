@@ -1,5 +1,4 @@
 # Introducción al Álgebra Lineal — 1ra Edición
-## Teoría y Aplicaciones con Python
 
 **Autores:** Jheser Guzman, Jhohan Guzman
 
