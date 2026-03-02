@@ -65,9 +65,9 @@ Los autores cuentan con amplia experiencia en matemáticas aplicadas, ingenierí
 
 | Formato | Libro |
 |---------|:---------:|
-| 📗 **Paperback + Color** | <img src="images/book_color_vol1.jpg" width="160"/><br>[🛒 Comprar en Amazon]()|
-| 📘 **Paperback + Escala de Grises** | <img src="images/book_bw_vol1.jpg" width="160"/><br>[🛒 Comprar en Amazon]() |
-| 📙 **Hardcover + Color Premium** | [🛒 Comprar en Amazon]() |
+| 📗 **Paperback + Color** | <img src="images/book_color_vol1.jpg" width="160"/><br>[🛒 Comprar en Amazon](https://www.amazon.com/dp/1967406278)|
+| 📘 **Paperback + Escala de Grises** | <img src="images/book_bw_vol1.jpg" width="160"/><br>[🛒 Comprar en Amazon](https://www.amazon.com/dp/1967406499) |
+| 📙 **Hardcover + Color Premium** | [🛒 Comprar en Amazon](https://www.amazon.com/dp/1967406308) |
 
 ---
 
